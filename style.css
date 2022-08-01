@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Cormorant+Garamond:wght@300&family=Edu+SA+Beginner&family=Gruppo&family=Lato:wght@300&family=Lora:ital,wght@1,700&family=Oswald:wght@700&family=Roboto:wght@700&display=swap');
+
+.body {
+    background-color: #fdf2e9;
+}
+
+.head {
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Edu SA Beginner', cursive;
+    font-family: 'Gruppo', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Lora', serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 3.2rem;
+}
+
+.pra {
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Edu SA Beginner', cursive;
+    font-family: 'Gruppo', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Lora', serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.30rem;
+}
+
+.step-number {
+    font-size: 5.6rem;
+    font-weight: 600;
+    color: #ddd;
+    margin-bottom: 1.2rem;
+}
+
+.head1 {
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Edu SA Beginner', cursive;
+    font-family: 'Gruppo', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Lora', serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.30rem;
+}
+
+.space {
+    height: 60px;
+}
+
+.head2 {
+    margin-top: 130px;
+    font-style: normal;
+    letter-spacing: 1px;
+}
+
+.body2 {
+    background-color: #fdf2e9;
+}
+
+.prag {
+    font-style: normal;
+    letter-spacing: 1px;
+    font-size: 22px;
+}
+
+.icon {
+    height: 20px;
+    width: 30px;
+}
+
+.prag1 {
+    line-height: 1.6;
+    font-style: normal;
+    color: #6f6f6f;
+    letter-spacing: 3px;
+    font-size: 17px;
+}
+
+.prag2 {
+    line-height: 1.6;
+    font-style: normal;
+    color: #6f6f6f;
+    letter-spacing: 2px;
+    font-size: 17px;
+
+}
+
+.dolad {
+    font-size: 50px;
+}
+
+.prag3 {
+    font-style: normal;
+    color: #6f6f6f;
+    font-size: 20px;
+    font-weight: 10;
+}
+
+.prag4 {
+    margin-top: 50px;
+}
+
+.prag5 {
+    line-height: 1.6;
+    font-style: normal;
+    color: #6f6f6f;
+    letter-spacing: 2px;
+    font-size: 14px;
+    font-weight: 10;
+}
+
+.title1 {
+    font-size: 13px;
+}
+
+.title {
+    font-size: 24px;
+    font-weight: normal;
+}
+
+.p1 {
+    font-size: 19px;
+}
+
+.icon2 {
+    width: 30%;
+    height: 60px;
+}
+
+.box1 {
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.box2 {
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.box3{
+    background-color: #fdf2e9;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+.box4{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+.box5{
+    background-color: #fb0808;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.head5{
+    font-size: 40px;
+    font-weight: 900px;
+}
+.p5{
+    /* font-size: 18px; */
+    letter-spacing: 2px;
+    font-style: normal;
+}
+.p6{
+    letter-spacing: 1px;
+}
+.h1{
+    font-size: 22px;
+    letter-spacing: 1px;
+}
+.p7{
+    font-size: 17px;
+    letter-spacing: 1px;
+}
+.box4{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px, rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;
+    background-color: bisque;
+}
+.box6{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px, rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;
+}
+.text1{
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+.text2{
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+.text3{
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+.text4{
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+
+.logo{
+    width: 20%;
+    height: 40px;
+}
